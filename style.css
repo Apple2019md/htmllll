@@ -1,0 +1,19 @@
+.grid {
+  display: flex;
+  margin: 10px;
+  flex-wrap: wrap;
+}
+.grid img {
+  border: 2px solid black;
+  border-radius: 50px;
+  margin: 20px;
+}
+.item {
+  width: 300px;
+  border: 2px solid orange;
+  background-color: #ffffff;
+  border-radius: 50px;
+  text-align: center;
+  margin: 20px;
+  padding: 10px;
+}
